@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .category-badge {
+    @apply cursor-pointer py-1 px-3 rounded-full;
+  }
+}
