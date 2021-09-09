@@ -107,5 +107,15 @@ const data = [
     demoURL: 'https://hokusai.vercel.app',
     stacks: ['React', 'Next.js', 'Bootstrap'],
   },
+  {
+    id: 11,
+    title: 'YouTube Clone',
+    image: '/images/youtube-clone.jpg',
+    description:
+      'React + Redux + firebase + YouTube DATA API で作った YouTube クローン',
+    githubURL: 'https://github.com/KYOYA-OGA/youtube-clone',
+    demoURL: 'https://not-real-yt.firebaseapp.com/',
+    stacks: ['React', 'firebase', 'Redux'],
+  },
 ]
 export default data
